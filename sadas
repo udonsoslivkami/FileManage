@@ -1,1 +1,60 @@
-asdsaddasasdasdasd
+/summon falling_block ~ ~1 ~ 
+{Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~5 ~-2 ~5 ~29 ~3 ~29 cobblestone 0 hollow"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~6 ~2 ~6 ~28 ~2 ~28 air"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/setblock ~6 ~-1 ~17 wall_sign 5 replace 
+{Text1:\"{\\\"text\\\":\\\"Created by\\\"}\",Text2:\"{\\\"text\\\":\\\"DigMinecraft.com\\\"}\"}"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/setblock ~5 ~-3 ~17 dark_oak_door 8"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/setblock ~5 ~-5 ~17 dark_oak_door 0"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/setblock ~4 ~-4 ~17 wall_sign 4 replace 
+{Text1:\"{\\\"text\\\":\\\"Created by\\\"}\",Text2:\"{\\\"text\\\":\\\"DigMinecraft.com\\\"}\"}"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~4 ~-7 ~32 ~6 ~3 ~32 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~4 ~-8 ~26 ~6 ~2 ~26 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~8 ~-9 ~28 ~8 ~1 ~30 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~2 ~-10 ~28 ~2 ~0 ~30 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~28 ~-11 ~32 ~30 ~-1 ~32 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~28 ~-12 ~26 ~30 ~-2 ~26 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~32 ~-13 ~28 ~32 ~-3 ~30 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~26 ~-14 ~28 ~26 ~-4 ~30 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~28 ~-15 ~8 ~30 ~-5 ~8 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~28 ~-16 ~2 ~30 ~-6 ~2 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~32 ~-17 ~4 ~32 ~-7 ~6 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~26 ~-18 ~4 ~26 ~-8 ~6 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~4 ~-19 ~8 ~6 ~-9 ~8 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~4 ~-20 ~2 ~6 ~-10 ~2 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~8 ~-21 ~4 ~8 ~-11 ~6 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~2 ~-22 ~4 ~2 ~-12 ~6 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~27 ~-23 ~3 ~31 ~-15 ~7 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~3 ~-24 ~27 ~7 ~-16 ~31 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~27 ~-25 ~27 ~31 ~-17 ~31 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~3 ~-26 ~3 ~7 ~-18 ~7 cobblestone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~6 ~-28 ~6 ~28 ~-28 ~28 stone"},Passengers:
+[{id:falling_block,Block:command_block,Time:1,TileEntityData:
+{Command:"/fill ~ ~-30 ~-1 ~ ~40 ~-1 redstone_block"},Passengers:
+[{id:falling_block,Block:redstone_block,Time:1}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}
